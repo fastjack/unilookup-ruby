@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.summary       = "A command line utility to lookup Unicode characters"
   spec.description   = "Search and display Unicode character information from the command line"
   spec.homepage      = "https://github.com/fastjack/unilookup-ruby"
-  spec.license       = "MIT"
+  spec.license       = "GPL-3.0"
 
   spec.required_ruby_version = ">= 2.7.0"
 
